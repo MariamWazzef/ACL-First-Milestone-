@@ -1,0 +1,17 @@
+requirement,notebook_section,generated_evidence,status,notes
+Recursive CSV discovery and paths,Section 1,data_inventory.csv,PASS,actual paths printed; missing core tables stop with instructions
+Pre-cleaning visual EDA,Section 1,raw_entries_before_cleaning.png; raw_missingness_before_cleaning.png; raw_duplicate_keys_before_cleaning.png,PASS,visualizes raw loaded data before type conversion/duplicate resolution
+Semantic date and duration typing,Section 2,cleaning_log.csv; lap_times.time_seconds,PASS,qualifying and lap durations parsed; original strings retained
+Key and foreign-key audit,Section 2,key_audit.csv; foreign_key_audit.csv,PASS,findings computed from discovered data
+Duplicate race-driver handling,Section 2,cleaning_log.csv; duplicate_rows_by_year.csv,PASS,deterministic rule; unique-grain assertion
+Before/after cleaning EDA,Section 3,cleaning_impact_by_season.png; cleaning_impact_by_season.csv,PASS,paired raw and cleaned row counts by season
+Three engineering questions,Section 4,q1/q2/q3 tables and figures,PASS,"rates, figures, grid-versus-qualifying audit, Indianapolis sensitivity"
+Leakage-safe features and dictionary,Section 5,modeling_table.csv/.parquet; feature_dictionary.csv,PASS,forbidden-feature assertion and shifted history
+Chronological splits and preprocessing,Section 6,split_class_prevalence.png,PASS,train-only fit; partitions printed
+Three model families,Section 7,validation_model_comparison.csv,PASS,"Logistic Regression, Random Forest, shallow sklearn MLP fallback"
+Neural-network epoch diagnostics,Section 7,neural_network_history.csv; nn_loss.png; nn_validation_metrics.png,PASS,train/validation loss and PR-AUC/ROC-AUC by epoch; best val-loss weights restored
+Test evaluation,Section 8,model_evaluation.csv; ROC/PR figures,PASS,thresholds selected on validation
+Ablation and preprocessing experiments,Sections 7-9,ablation_results.csv; preprocessing_experiments.csv,PASS,validation-only comparisons
+Explainability,Section 10,permutation/SHAP plots,PASS,"global permutation, global SHAP, and local SHAP"
+Inference demonstrations,Section 11,notebook output,PASS,required/optional fields and forbidden keys handled
+Analytical report,companion files,analytical_report.pdf,PASS,completed from generated tables and plots

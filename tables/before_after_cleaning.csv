@@ -1,0 +1,3 @@
+stage,rows,races,drivers,constructors,seasons
+raw results,26759,1125,861,211,75
+cleaned race-driver entries,26668,1125,861,210,75

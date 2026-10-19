@@ -1,0 +1,13 @@
+child,column,parent,parent_key,orphan_rows,null_rows
+races,circuitId,circuits,circuitId,0,0
+results,raceId,races,raceId,0,0
+results,driverId,drivers,driverId,0,0
+results,constructorId,constructors,constructorId,0,0
+results,statusId,status,statusId,0,0
+qualifying,raceId,races,raceId,0,0
+qualifying,driverId,drivers,driverId,0,0
+qualifying,constructorId,constructors,constructorId,0,0
+driver_standings,raceId,races,raceId,0,0
+driver_standings,driverId,drivers,driverId,0,0
+constructor_standings,raceId,races,raceId,0,0
+constructor_standings,constructorId,constructors,constructorId,0,0

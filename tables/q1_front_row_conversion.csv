@@ -1,0 +1,125 @@
+period,circuitId,circuit,front_row_entries,podiums,conversion_rate,eligible_for_rank,rank
+2014-2021,1,Albert Park Grand Prix Circuit,12,10,0.8333333333333334,True,6.0
+2014-2021,2,Sepang International Circuit,7,6,0.8571428571428571,False,
+2014-2021,3,Bahrain International Circuit,18,12,0.6666666666666666,True,14.0
+2014-2021,4,Circuit de Barcelona-Catalunya,16,14,0.875,True,2.0
+2014-2021,5,Istanbul Park,4,2,0.5,False,
+2014-2021,6,Circuit de Monaco,14,12,0.8571428571428571,True,4.0
+2014-2021,7,Circuit Gilles Villeneuve,12,9,0.75,True,11.0
+2014-2021,9,Silverstone Circuit,18,14,0.7777777777777778,True,10.0
+2014-2021,10,Hockenheimring,8,5,0.625,False,
+2014-2021,11,Hungaroring,16,9,0.5625,True,18.0
+2014-2021,13,Circuit de Spa-Francorchamps,16,13,0.8125,True,8.0
+2014-2021,14,Autodromo Nazionale di Monza,16,10,0.625,True,17.0
+2014-2021,15,Marina Bay Street Circuit,12,8,0.6666666666666666,True,14.0
+2014-2021,17,Shanghai International Circuit,12,9,0.75,True,11.0
+2014-2021,18,Autódromo José Carlos Pace,14,12,0.8571428571428571,True,4.0
+2014-2021,20,Nürburgring,2,1,0.5,False,
+2014-2021,21,Autodromo Enzo e Dino Ferrari,4,3,0.75,False,
+2014-2021,22,Suzuka Circuit,12,10,0.8333333333333334,True,6.0
+2014-2021,24,Yas Marina Circuit,16,14,0.875,True,2.0
+2014-2021,32,Autódromo Hermanos Rodríguez,12,8,0.6666666666666666,True,14.0
+2014-2021,34,Circuit Paul Ricard,6,5,0.8333333333333334,False,
+2014-2021,39,Circuit Park Zandvoort,2,2,1.0,False,
+2014-2021,69,Circuit of the Americas,14,13,0.9285714285714286,True,1.0
+2014-2021,70,Red Bull Ring,20,15,0.75,True,11.0
+2014-2021,71,Sochi Autodrom,16,13,0.8125,True,8.0
+2014-2021,73,Baku City Circuit,10,5,0.5,True,19.0
+2014-2021,75,Autódromo Internacional do Algarve,4,4,1.0,False,
+2014-2021,76,Autodromo Internazionale del Mugello,2,2,1.0,False,
+2014-2021,77,Jeddah Corniche Circuit,2,2,1.0,False,
+2014-2021,78,Losail International Circuit,2,1,0.5,False,
+2022-2024,1,Albert Park Grand Prix Circuit,6,3,0.5,False,
+2022-2024,3,Bahrain International Circuit,6,4,0.6666666666666666,False,
+2022-2024,4,Circuit de Barcelona-Catalunya,6,4,0.6666666666666666,False,
+2022-2024,6,Circuit de Monaco,6,5,0.8333333333333334,False,
+2022-2024,7,Circuit Gilles Villeneuve,6,5,0.8333333333333334,False,
+2022-2024,9,Silverstone Circuit,6,4,0.6666666666666666,False,
+2022-2024,11,Hungaroring,6,4,0.6666666666666666,False,
+2022-2024,13,Circuit de Spa-Francorchamps,6,5,0.8333333333333334,False,
+2022-2024,14,Autodromo Nazionale di Monza,6,6,1.0,False,
+2022-2024,15,Marina Bay Street Circuit,6,5,0.8333333333333334,False,
+2022-2024,17,Shanghai International Circuit,2,2,1.0,False,
+2022-2024,18,Autódromo José Carlos Pace,5,3,0.6,False,
+2022-2024,21,Autodromo Enzo e Dino Ferrari,4,3,0.75,False,
+2022-2024,22,Suzuka Circuit,6,6,1.0,False,
+2022-2024,24,Yas Marina Circuit,6,5,0.8333333333333334,False,
+2022-2024,32,Autódromo Hermanos Rodríguez,6,3,0.5,False,
+2022-2024,34,Circuit Paul Ricard,2,1,0.5,False,
+2022-2024,39,Circuit Park Zandvoort,6,5,0.8333333333333334,False,
+2022-2024,69,Circuit of the Americas,6,3,0.5,False,
+2022-2024,70,Red Bull Ring,6,4,0.6666666666666666,False,
+2022-2024,73,Baku City Circuit,6,5,0.8333333333333334,False,
+2022-2024,77,Jeddah Corniche Circuit,6,5,0.8333333333333334,False,
+2022-2024,78,Losail International Circuit,4,2,0.5,False,
+2022-2024,79,Miami International Autodrome,6,6,1.0,False,
+2022-2024,80,Las Vegas Strip Street Circuit,4,4,1.0,False,
+pre-2014,1,Albert Park Grand Prix Circuit,36,20,0.5555555555555556,True,25.0
+pre-2014,2,Sepang International Circuit,30,21,0.7,True,4.0
+pre-2014,3,Bahrain International Circuit,18,12,0.6666666666666666,True,8.0
+pre-2014,4,Circuit de Barcelona-Catalunya,46,30,0.6521739130434783,True,10.0
+pre-2014,5,Istanbul Park,14,11,0.7857142857142857,True,2.0
+pre-2014,6,Circuit de Monaco,120,59,0.49166666666666664,True,34.0
+pre-2014,7,Circuit Gilles Villeneuve,68,36,0.5294117647058824,True,28.0
+pre-2014,8,Circuit de Nevers Magny-Cours,36,29,0.8055555555555556,True,1.0
+pre-2014,9,Silverstone Circuit,94,53,0.5638297872340425,True,23.0
+pre-2014,10,Hockenheimring,66,40,0.6060606060606061,True,14.0
+pre-2014,11,Hungaroring,56,38,0.6785714285714286,True,7.0
+pre-2014,12,Valencia Street Circuit,10,6,0.6,True,15.0
+pre-2014,13,Circuit de Spa-Francorchamps,89,49,0.550561797752809,True,26.0
+pre-2014,14,Autodromo Nazionale di Monza,124,60,0.4838709677419355,True,36.0
+pre-2014,15,Marina Bay Street Circuit,12,7,0.5833333333333334,True,20.0
+pre-2014,16,Fuji Speedway,8,5,0.625,False,
+pre-2014,17,Shanghai International Circuit,20,13,0.65,True,11.0
+pre-2014,18,Autódromo José Carlos Pace,62,37,0.5967741935483871,True,18.0
+pre-2014,19,Indianapolis Motor Speedway,39,19,0.48717948717948717,True,35.0
+pre-2014,20,Nürburgring,80,45,0.5625,True,24.0
+pre-2014,21,Autodromo Enzo e Dino Ferrari,54,32,0.5925925925925926,True,19.0
+pre-2014,22,Suzuka Circuit,50,35,0.7,True,4.0
+pre-2014,24,Yas Marina Circuit,10,6,0.6,True,15.0
+pre-2014,25,Autódromo Juan y Oscar Gálvez,40,20,0.5,True,31.0
+pre-2014,26,Circuito de Jerez,14,9,0.6428571428571429,True,12.0
+pre-2014,27,Autódromo do Estoril,26,17,0.6538461538461539,True,9.0
+pre-2014,28,Okayama International Circuit,4,3,0.75,False,
+pre-2014,29,Adelaide Street Circuit,22,10,0.45454545454545453,True,38.0
+pre-2014,30,Kyalami,40,17,0.425,True,40.0
+pre-2014,31,Donington Park,2,2,1.0,False,
+pre-2014,32,Autódromo Hermanos Rodríguez,30,18,0.6,True,15.0
+pre-2014,33,Phoenix street circuit,6,3,0.5,False,
+pre-2014,34,Circuit Paul Ricard,28,16,0.5714285714285714,True,22.0
+pre-2014,35,Korean International Circuit,8,5,0.625,False,
+pre-2014,36,Autódromo Internacional Nelson Piquet,20,7,0.35,True,43.0
+pre-2014,37,Detroit Street Circuit,14,4,0.2857142857142857,True,44.0
+pre-2014,38,Brands Hatch,28,11,0.39285714285714285,True,42.0
+pre-2014,39,Circuit Park Zandvoort,60,35,0.5833333333333334,True,20.0
+pre-2014,40,Zolder,20,11,0.55,True,27.0
+pre-2014,41,Dijon-Prenois,12,9,0.75,True,3.0
+pre-2014,42,Fair Park,2,1,0.5,False,
+pre-2014,43,Long Beach,16,10,0.625,True,13.0
+pre-2014,44,Las Vegas Street Circuit,4,1,0.25,False,
+pre-2014,45,Jarama,18,9,0.5,True,31.0
+pre-2014,46,Watkins Glen,41,21,0.5121951219512195,True,30.0
+pre-2014,47,Scandinavian Raceway,12,5,0.4166666666666667,True,41.0
+pre-2014,48,Mosport International Raceway,16,7,0.4375,True,39.0
+pre-2014,49,Montjuïc,8,1,0.125,False,
+pre-2014,50,Nivelles-Baulers,4,2,0.5,False,
+pre-2014,51,Charade Circuit,8,4,0.5,False,
+pre-2014,52,Circuit Mont-Tremblant,4,1,0.25,False,
+pre-2014,53,Rouen-Les-Essarts,10,5,0.5,True,31.0
+pre-2014,54,Le Mans,2,1,0.5,False,
+pre-2014,55,Reims-Gueux,21,10,0.47619047619047616,True,37.0
+pre-2014,56,Prince George Circuit,6,4,0.6666666666666666,False,
+pre-2014,57,Zeltweg,2,0,0.0,False,
+pre-2014,58,Aintree,9,7,0.7777777777777778,False,
+pre-2014,59,Circuito da Boavista,4,2,0.5,False,
+pre-2014,60,Riverside International Raceway,2,1,0.5,False,
+pre-2014,61,AVUS,2,1,0.5,False,
+pre-2014,62,Monsanto Park Circuit,2,1,0.5,False,
+pre-2014,63,Sebring International Raceway,2,0,0.0,False,
+pre-2014,64,Ain Diab,2,2,1.0,False,
+pre-2014,65,Pescara Circuit,2,2,1.0,False,
+pre-2014,66,Circuit Bremgarten,10,7,0.7,True,4.0
+pre-2014,67,Circuit de Pedralbes,4,2,0.5,False,
+pre-2014,68,Buddh International Circuit,6,5,0.8333333333333334,False,
+pre-2014,69,Circuit of the Americas,4,4,1.0,False,
+pre-2014,70,Red Bull Ring,50,26,0.52,True,29.0

@@ -1,0 +1,8 @@
+table,key,rows,nulls,duplicate_rows,present
+circuits,circuitId,77,0,0,True
+constructors,constructorId,212,0,0,True
+drivers,driverId,861,0,0,True
+races,raceId,1125,0,0,True
+results,resultId,26759,0,0,True
+qualifying,qualifyId,10494,0,0,True
+status,statusId,139,0,0,True

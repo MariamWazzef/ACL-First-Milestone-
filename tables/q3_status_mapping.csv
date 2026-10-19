@@ -1,0 +1,138 @@
+status,status_class
+Accident,excluded/non-mechanical
+Collision,excluded/non-mechanical
+Collision damage,excluded/non-mechanical
+Disqualified,excluded/non-mechanical
+Driver Seat,excluded/non-mechanical
+Driver unwell,excluded/non-mechanical
+Excluded,excluded/non-mechanical
+Eye injury,excluded/non-mechanical
+Fatal accident,excluded/non-mechanical
+Injured,excluded/non-mechanical
+Injury,excluded/non-mechanical
+Spun off,excluded/non-mechanical
++1 Lap,finished/classified
++10 Laps,finished/classified
++11 Laps,finished/classified
++12 Laps,finished/classified
++13 Laps,finished/classified
++14 Laps,finished/classified
++15 Laps,finished/classified
++16 Laps,finished/classified
++17 Laps,finished/classified
++18 Laps,finished/classified
++19 Laps,finished/classified
++2 Laps,finished/classified
++20 Laps,finished/classified
++21 Laps,finished/classified
++22 Laps,finished/classified
++23 Laps,finished/classified
++24 Laps,finished/classified
++25 Laps,finished/classified
++26 Laps,finished/classified
++29 Laps,finished/classified
++3 Laps,finished/classified
++30 Laps,finished/classified
++4 Laps,finished/classified
++42 Laps,finished/classified
++44 Laps,finished/classified
++46 Laps,finished/classified
++5 Laps,finished/classified
++6 Laps,finished/classified
++7 Laps,finished/classified
++8 Laps,finished/classified
++9 Laps,finished/classified
+Finished,finished/classified
+Alternator,mechanical
+Battery,mechanical
+Brake duct,mechanical
+Brakes,mechanical
+Clutch,mechanical
+Cooling system,mechanical
+Electrical,mechanical
+Engine,mechanical
+Engine fire,mechanical
+Engine misfire,mechanical
+Fuel,mechanical
+Fuel leak,mechanical
+Fuel pipe,mechanical
+Fuel pressure,mechanical
+Fuel pump,mechanical
+Fuel rig,mechanical
+Fuel system,mechanical
+Gearbox,mechanical
+Hydraulics,mechanical
+Oil leak,mechanical
+Oil line,mechanical
+Oil pipe,mechanical
+Oil pressure,mechanical
+Oil pump,mechanical
+Out of fuel,mechanical
+Power Unit,mechanical
+Radiator,mechanical
+Refuelling,mechanical
+Spark plugs,mechanical
+Suspension,mechanical
+Transmission,mechanical
+Turbo,mechanical
+Water leak,mechanical
+Water pipe,mechanical
+Water pressure,mechanical
+Water pump,mechanical
+107% Rule,other/ambiguous
+Axle,other/ambiguous
+Broken wing,other/ambiguous
+CV joint,other/ambiguous
+Chassis,other/ambiguous
+Crankshaft,other/ambiguous
+Damage,other/ambiguous
+Debris,other/ambiguous
+Did not prequalify,other/ambiguous
+Did not qualify,other/ambiguous
+Differential,other/ambiguous
+Distributor,other/ambiguous
+Driveshaft,other/ambiguous
+Drivetrain,other/ambiguous
+ERS,other/ambiguous
+Electronics,other/ambiguous
+Exhaust,other/ambiguous
+Fire,other/ambiguous
+Front wing,other/ambiguous
+Halfshaft,other/ambiguous
+Handling,other/ambiguous
+Heat shield fire,other/ambiguous
+Ignition,other/ambiguous
+Illness,other/ambiguous
+Injection,other/ambiguous
+Launch control,other/ambiguous
+Magneto,other/ambiguous
+Mechanical,other/ambiguous
+Not classified,other/ambiguous
+Not restarted,other/ambiguous
+Overheating,other/ambiguous
+Physical,other/ambiguous
+Pneumatics,other/ambiguous
+Power loss,other/ambiguous
+Puncture,other/ambiguous
+Rear wing,other/ambiguous
+Retired,other/ambiguous
+Safety,other/ambiguous
+Safety belt,other/ambiguous
+Safety concerns,other/ambiguous
+Seat,other/ambiguous
+Stalled,other/ambiguous
+Steering,other/ambiguous
+Supercharger,other/ambiguous
+Technical,other/ambiguous
+Throttle,other/ambiguous
+Track rod,other/ambiguous
+Tyre,other/ambiguous
+Tyre puncture,other/ambiguous
+Undertray,other/ambiguous
+Underweight,other/ambiguous
+Vibrations,other/ambiguous
+Wheel,other/ambiguous
+Wheel bearing,other/ambiguous
+Wheel nut,other/ambiguous
+Wheel rim,other/ambiguous
+Withdrew,other/ambiguous
